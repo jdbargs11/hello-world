@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hello,
+I'm Josiah, a college student interested in learning software development.
